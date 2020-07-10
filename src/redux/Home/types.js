@@ -1,0 +1,4 @@
+export const SET_LOADING = 'SET_LOADING';
+export const FILL_GALLERYLISTING = 'FILL_GALLERYLISTING';
+
+
